@@ -1,6 +1,6 @@
 # Cryptocurrency trade and wallet mobile app Flutter UI Kit
 
-ADevIndustries has built a complete cryptocurrency trade and wallet mobile app UI Kit using Flutter. The app UI Kit provides very smooth animations and native-style modern UIs including payment/wallet/deposit/withdraw, pin-code, charts, and login/signup. You can check the demo of the app here [trade and wallet app demo](https://www.youtube.com/watch?v=_c7ppLp0558&ab_channel=ADevIndustries)<a href="[https://codingbeautydev.com](https://www.youtube.com/watch?v=_c7ppLp0558&ab_channel=ADevIndustries)">Trade and Wallet App Demo on YouTube</a>
+ADevIndustries has built a complete cryptocurrency trade and wallet mobile app UI Kit using Flutter. The app UI Kit provides very smooth animations and native-style modern UIs including payment/wallet/deposit/withdraw, pin-code, charts, and login/signup. You can check the demo of the app here [Trade and Wallet App Demo on YouTube](https://www.youtube.com/watch?v=_c7ppLp0558&ab_channel=ADevIndustries)
 
 ## Getting Started
 
